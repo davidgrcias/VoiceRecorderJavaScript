@@ -1,2 +1,0 @@
-# VoiceRecorderJavaScript
-Voice Recorder JavaScript
